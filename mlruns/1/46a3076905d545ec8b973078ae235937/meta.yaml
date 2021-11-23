@@ -1,0 +1,15 @@
+artifact_uri: file:///home/juoll/code/ollivierj/TaxiFareModel/mlruns/1/46a3076905d545ec8b973078ae235937/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 46a3076905d545ec8b973078ae235937
+run_uuid: 46a3076905d545ec8b973078ae235937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637672195740
+status: 1
+tags: []
+user_id: unknown
